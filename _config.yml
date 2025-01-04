@@ -32,20 +32,6 @@ permalink: /:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: "America/Chicago"
-# ...
-navigation:
-  - text: "Home"
-    url: /
-  - text: "About"
-    url: /about/
-  - text: "Careers"
-    url: /careers/
-  - text: "Events"
-    url: /events/
-  - text: "Resources"
-    url: /resources/
-  - text: "Code of Conduct"
-    url: /coc/
 include:
   - _pages
 
@@ -119,6 +105,9 @@ defaults:
     values:
       layout: single
       author_profile: false
+      navigation:
+        - scope: all
+        data: navigation.yml main
 
 category_archive:
   type: liquid
