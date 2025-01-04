@@ -1,7 +1,7 @@
 ---
-layout: home 
+layout: splash 
 permalink: /
-title: "PSKC Home"
+title: "Welcome to the Psychedelic Society of Kansas City!"
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
