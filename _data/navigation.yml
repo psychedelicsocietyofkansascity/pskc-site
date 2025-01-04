@@ -11,8 +11,8 @@ main:
     url: "/resources/"
   - text: "Code of Conduct"
     url: "/coc/"
-  - title: "News"
-    url: /news/
+#  - title: "News"
+#    url: /news/
  # - title: "Categories"
  #   url: /categories/
 #  - title: "Tags"
