@@ -1,18 +1,18 @@
 main:
   - text: "Home"
-    url: "/"
+    url: /
   - text: "About"
-    url: "/about/"
+    url: /about/
 #  - text: "Careers"
 #    url: "/careers/"
   - text: "Events"
-    url: "/events/"
+    url: /events/
   - text: "Resources"
-    url: "/resources/"
+    url: /resources/
   - text: "Code of Conduct"
-    url: "/coc/"
-#  - title: "News"
-#    url: /news/
+    url: /coc/
+  - title: "News"
+    url: /news/
  # - title: "Categories"
  #   url: /categories/
 #  - title: "Tags"
