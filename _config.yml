@@ -33,8 +33,19 @@ paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: "America/Chicago"
 navigation:
-  - scope: all
-    data: navigation.yml main
+  - text: "Home"
+    url: "/"                # index.md or index.html
+  - text: "About"
+    url: "/about/"
+  - text: "Careers"
+    url: "/careers/"
+  - text: "Events"
+    url: "/events/"
+  - text: "Resources"
+    url: "/resources/"
+  - text: "Code of Conduct"
+    url: "/code-of-conduct/"
+
 include:
   - _pages
 
