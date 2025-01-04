@@ -1,6 +1,7 @@
 ---
+layout: splash 
 permalink: /
-title: "Home"
+title: "PSKC Home"
 ---
 
 Sample Homepage with Sample Text mixing Samples
