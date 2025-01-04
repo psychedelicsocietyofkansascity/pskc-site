@@ -1,15 +1,15 @@
 main:
-  - text: "Home"
+  - title: "Home"
     url: /
-  - text: "About"
+  - title: "About"
     url: /about/
 #  - text: "Careers"
 #    url: "/careers/"
-  - text: "Events"
+  - title: "Events"
     url: /events/
-  - text: "Resources"
+  - title: "Resources"
     url: /resources/
-  - text: "Code of Conduct"
+  - title: "Code of Conduct"
     url: /coc/
   - title: "News"
     url: /news/
