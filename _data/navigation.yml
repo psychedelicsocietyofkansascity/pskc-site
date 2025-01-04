@@ -1,5 +1,5 @@
 main:
- - text: "Home"
+  - text: "Home"
     url: "/"
   - text: "About"
     url: "/about/"
