@@ -11,5 +11,3 @@ Have a question, comment, or collaboration opportunity in mind? We’d love to h
 
 - **Support Our Mission**  
   Interested in supporting our work? [Donate here](https://givebutter.com/pskc) to help us advance the psychedelic movement.
-
-We appreciate your interest in ACME Inc!
