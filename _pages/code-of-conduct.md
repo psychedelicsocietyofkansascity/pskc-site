@@ -1,10 +1,9 @@
 ---
 layout: single
-title: "PSKC Code of Conduct"
+title: "Code of Conduct"
 permalink: /coc/
 author_profile: false
 ---
-# Code of Conduct
 
 ## Table of Contents
 
