@@ -4,10 +4,10 @@ title: "Upcoming Events"
 permalink: /events/
 author_profile: false
 ---
-# PSKC Inc Events
+# Stay In The Loop!
 
-Stay up to date with our upcoming conferences, meetups, and webinars.
+Stay up to date with our upcoming in-person events!
 
-- **January 15th**: ACME Winter Conference (Virtual)
-- **March 22nd**: Developer Meetup in New York
-- **June 10th**: ACME Summer Showcase
+- **January 26th**: [Potluck & Policy: Breaking Bread, Breaking Barriers](https://lu.ma/xrlzyo7s)
+- **February 22nd**: Ride The Wave: A Psychedelic Film Experience
+- **March 23rd**: A Very Special Guest Speaker (TBA)
