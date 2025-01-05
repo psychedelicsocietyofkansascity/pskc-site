@@ -7,17 +7,17 @@ author_profile: false
 
 ## Table of Contents
 
-- Preamble
-1. Commitment to Safety and Harm Reduction
-2. Respect for Legal Boundaries
-3. Community and Ethical Accountability
-4. Integrity and Accuracy in Education
-5. Non-Exploitation and Respect for Cultural Practices
-6. Community Building and Accessibility
-7. Personal Responsibility and Risk Acknowledgment
-8. Privacy and Confidentiality
-9. Ongoing Education and Peer Support
-10. Commitment to Transparency and Accountability
+- [Preamble](#preamble)
+- [1. Commitment to Safety and Harm Reduction](#1-commitment-to-safety-and-harm-reduction)
+- [2. Respect for Legal Boundaries](#2-respect-for-legal-boundaries)
+- [3. Community and Ethical Accountability](#3-community-and-ethical-accountability)
+- [4. Integrity and Accuracy in Education](#4-integrity-and-accuracy-in-education)
+- [5. Non-Exploitation and Respect for Cultural Practices](#5-non-exploitation-and-respect-for-cultural-practices)
+- [6. Community Building and Accessibility](#6-community-building-and-accessibility)
+- [7. Personal Responsibility and Risk Acknowledgment](#7-personal-responsibility-and-risk-acknowledgment)
+- [8. Privacy and Confidentiality](#8-privacy-and-confidentiality)
+- [9. Ongoing Education and Peer Support](#9-ongoing-education-and-peer-support)
+- [Commitment to Transparency and Accountability](#commitment-to-transparency-and-accountability)
 
 ---
 
