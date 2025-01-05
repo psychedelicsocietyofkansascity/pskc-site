@@ -7,6 +7,7 @@ toc: true
 toc_sticky: true
 toc_label: "Contents"
 ---
+---
 
 ## Preamble
 
@@ -16,13 +17,14 @@ Our Code of Ethics can be summarized with the following overarching goals:
 
 1. Commitment to Safety and Harm Reduction
 2. Respect for Legal Boundaries
-3. Community and Ethical Accountability
-4. Integrity and Accuracy in Education
-5. Non-Exploitation and Respect for Cultural Practices
-6. Community Building and Accessibility
-7. Personal Responsibility and Risk Acknowledgment
-8. Privacy and Confidentiality
-9. Ongoing Education and Peer Support
+3. Age Restrictions
+4. Community and Ethical Accountability
+5. Integrity and Accuracy in Education
+6. Non-Exploitation and Respect for Cultural Practices
+7. Community Building and Accessibility
+8. Personal Responsibility and Risk Acknowledgment
+9. Privacy and Confidentiality
+10. Ongoing Education and Peer Support
 
 ---
 
@@ -41,48 +43,55 @@ Our Code of Ethics can be summarized with the following overarching goals:
 
 ---
 
-## 3. Community and Ethical Accountability
+## 3. Age Restrictions
+
+- **Minimum Age Requirement:** All attendees for in-person events hosted by The Psychedelic Society of Kansas City must be **21 years of age or older** at the time of the event. This policy is in place to ensure compliance with legal standards and to prioritize the safety of participants.
+- **Verification of Age:** Attendees may be required to provide valid government-issued identification to verify their age before being admitted to any event.
+
+---
+
+## 4. Community and Ethical Accountability
 
 - **Transparent Governance:** Establish transparent, community-driven processes to ensure accountability, foster ethical self-regulation, and address misconduct constructively through dialogue, peer review, and "psychedelic transformative justice" practices.
 - **Peer Support and Mentorship:** Cultivate positive peer pressure through mentorship, open dialogue, and education, avoiding punitive measures unless necessary to protect community safety.
 
 ---
 
-## 4. Integrity and Accuracy in Education
+## 5. Integrity and Accuracy in Education
 
 - **Evidence-Based Information:** Offer balanced, scientifically-backed content regarding psychedelics, tailored to diverse community needs, without bias, exaggeration, or misinformation.
 - **No Medical or Therapeutic Claims:** Ensure that no members, volunteers, or representatives present information as medical or therapeutic advice unless explicitly qualified to do so.
 
 ---
 
-## 5. Non-Exploitation and Respect for Cultural Practices
+## 6. Non-Exploitation and Respect for Cultural Practices
 
 - **Respect for Cultural Practices:** Uphold respect for indigenous and traditional practices.
 - **Prohibition Against Exploitation:** Prohibit any form of financial, emotional, or power-based exploitation of individuals, particularly vulnerable community members or those in altered states of consciousness.
 
 ---
 
-## 6. Community Building and Accessibility
+## 7. Community Building and Accessibility
 
 - **Inclusion and Accessibility:** Foster an inclusive environment that welcomes diverse perspectives, ensuring community activities remain accessible and beneficial to all members.
 - **Local Engagement Focus:** Prioritize in-person, community-driven gatherings that facilitate genuine connection and dialogue.
 
 ---
 
-## 7. Personal Responsibility and Risk Acknowledgment
+## 8. Personal Responsibility and Risk Acknowledgment
 
 - **Informed Consent:** Require attendees, members, and/or staff to acknowledge risks involved in psychedelic discussions and any related experiences, affirming their responsibility for personal health and choices.
 - **Emergency Preparedness:** Develop and communicate plans for managing medical or psychological crises during The Psychedelic Society of Kansas City-sponsored events.
 
 ---
 
-## 8. Privacy and Confidentiality
+## 9. Privacy and Confidentiality
 
 - **Protection of Personal Information:** Safeguard the privacy of all attendees, members, and/or staff, ensuring personal information, including digital communications, are managed responsibly and confidentially to the extent possible.
 
 ---
 
-## 9. Ongoing Education and Peer Support
+## 10. Ongoing Education and Peer Support
 
 - **Continuous Learning:** Encourage community members to pursue ongoing education to stay informed of best practices, safety protocols, state and federal legal landscapes, and evolving ethical standards.
 - **Integration Support:** Provide resources and safe spaces for community members to process and integrate their psychedelic experiences, emphasizing reflective practices and connection-building.
@@ -92,4 +101,3 @@ Our Code of Ethics can be summarized with the following overarching goals:
 ## Commitment to Transparency and Accountability
 
 All members are required to uphold and reaffirm their commitment to this Code of Ethics. Violations will be reviewed transparently, with the goal of fostering constructive outcomes, safeguarding community values, and, when necessary, implementing corrective measures.
-
