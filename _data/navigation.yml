@@ -1,5 +1,5 @@
 main:
-  - title: "Welcome to PSKC"
+  - title: "Home"
     url: /
   - title: "About"
     url: /about/
