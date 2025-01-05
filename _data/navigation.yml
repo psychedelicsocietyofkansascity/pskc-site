@@ -6,7 +6,7 @@ main:
 #  - text: "Careers"
 #    url: "/careers/"
   - title: "Events"
-    url: /events/
+    url: https://lu.ma/pskc
   - title: "Resources"
     url: /resources/
   - title: "Code of Conduct"
