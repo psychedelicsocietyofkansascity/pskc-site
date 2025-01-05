@@ -4,6 +4,8 @@ title: "Code of Conduct"
 permalink: /coc/
 author_profile: false
 toc: true
+toc_sticky: true
+toc_label: "Contents"
 ---
 
 ## Preamble
