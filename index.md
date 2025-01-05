@@ -6,6 +6,10 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/logo.jpg
+  actions:
+    - label: "Donate"
+      url: "https://givebutter.com/pskc"
+      class: "btn btn--primary"
 ---
 
 The Psychedelic Society of Kansas City is a vibrant community that explores the transformative potential of psychedelic medicine, art, and culture. We believe in fostering thoughtful conversations and connections around these emerging fields while advocating for informed, responsible use and supporting efforts to expand awareness and access.
