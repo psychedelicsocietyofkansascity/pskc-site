@@ -3,22 +3,7 @@ layout: single
 title: "Code of Conduct"
 permalink: /coc/
 author_profile: false
----
-
-## Table of Contents
-{% include JB/toc %}
-- Preamble
-1. Commitment to Safety and Harm Reduction
-2. Respect for Legal Boundaries
-3. Community and Ethical Accountability
-4. Integrity and Accuracy in Education
-5. Non-Exploitation and Respect for Cultural Practices
-6. Community Building and Accessibility
-7. Personal Responsibility and Risk Acknowledgment
-8. Privacy and Confidentiality
-9. Ongoing Education and Peer Support
-10. Commitment to Transparency and Accountability
-
+toc: true
 ---
 
 ## Preamble
