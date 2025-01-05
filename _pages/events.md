@@ -6,10 +6,10 @@ author_profile: false
 ---
 <iframe
   src="https://lu.ma/embed/calendar/cal-WzYiUbVWw82gLyR/events?lt=dark"
-  width="600"
+  width="500"
   height="450"
   frameborder="0"
-  style="border: 1px solid #bfcbda88; border-radius: 4px; overflow: auto;"
+  style="border: 1px solid #bfcbda88; border-radius: 4px;"
   allowfullscreen=""
   aria-hidden="false"
   tabindex="0"
