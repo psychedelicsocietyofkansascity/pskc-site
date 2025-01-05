@@ -6,7 +6,7 @@ author_profile: false
 ---
 # Stay In The Loop!
 
-Stay up to date with our upcoming in-person events!
+Stay up to date with our upcoming in-person events:
 
 - **January 26th**: [Potluck & Policy: Breaking Bread, Breaking Barriers](https://lu.ma/xrlzyo7s)
 - **February 22nd**: Ride The Wave: A Psychedelic Film Experience
