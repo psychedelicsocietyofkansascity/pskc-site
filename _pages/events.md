@@ -9,20 +9,8 @@ author_profile: false
   width="600"
   height="450"
   frameborder="0"
-  style="border: 1px solid #bfcbda88; border-radius: 4px;"
+  style="border: 1px solid #bfcbda88; border-radius: 4px; overflow: auto;"
   allowfullscreen=""
   aria-hidden="false"
   tabindex="0"
 ></iframe>
-
-
-
-
-
-# Stay In The Loop!
-
-Stay up to date with our upcoming in-person events:
-
-- **January 26th**: [Potluck & Policy: Breaking Bread, Breaking Barriers](https://lu.ma/xrlzyo7s)
-- **February 22nd**: Ride The Wave: A Psychedelic Film Experience
-- **March 23rd**: A Very Special Guest Speaker (TBA)
