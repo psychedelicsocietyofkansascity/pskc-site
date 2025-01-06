@@ -8,7 +8,7 @@ header:
   overlay_image: /assets/images/logo.jpg
   actions:
     - label: "Donate"
-      url: "https://givebutter.com/pskc"
+      url: "https://www.zeffy.com/donation-form/support-the-psychedelic-society-of-kansas-city-championing-education-and-community-engagement-2"
       class: "btn btn--primary"
 ---
 
