@@ -1,7 +1,7 @@
 ---
 layout: splash 
 permalink: /
-title: "Welcome to The Psychedelic Society of Kansas City"
+title: "Get involved with the Psychedelic Movement in Kansas City today!"
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
