@@ -1,27 +1,22 @@
-{%- comment -%}
-  Custom footer for Psychedelic Society of Kansas City (PSKC).
-  This removes default Jekyll/Minimal Mistakes branding and replaces it with 
-  PSKC + Heartland Transpersonal Alliance info.
-{%- endcomment -%}
+<div class="page__footer-follow">
+  <ul class="social-icons">
+    {% if site.data.ui-text[site.locale].follow_label %}
+      <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
+    {% endif %}
 
-<footer id="footer" class="page-footer {{ page.footer.classes | default: site.footer.classes }}">
-  {% unless page.footer.force_no_include %}
-    {%- if page.footer.links %}
-      {%- include footer/links.html %}
-    {%- endif %}
+    {% if site.footer.links %}
+      {% for link in site.footer.links %}
+        {% if link.label and link.url %}
+          <li><a href="{{ link.url }}" rel="nofollow noopener noreferrer"><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i> {{ link.label }}</a></li>
+        {% endif %}
+      {% endfor %}
+    {% endif %}
 
-    {%- include footer/custom.html %}
-  {% endunless %}
+    {% unless site.atom_feed.hide %}
+      <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
+    {% endunless %}
+  </ul>
+</div>
 
-  <!-- Replace default footer text with your own content -->
-  <p style="text-align: center; margin-top: 1rem;">
-  &copy; {{ site.time | date: '%Y' }} Psychedelic Society of Kansas City,<br>
-  a DBA of the <a href="https://heartlandta.org" target="_blank" rel="noopener">
-    Heartland Transpersonal Alliance, Inc.
-  </a> a registered 501(c)(3) in the state of Missouri.
-</p>
-</footer>
-
-{% if site.disqus_shortname and page.comments %}
-  {%- include scripts/disqus.html -%}
-{% endif %}
+<div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} <a href="{{ site.copyright_url | default: site.url }}">{{ site.copyright | default: site.title }}</a> is a DBA of the <a href="https://heartlandta.org" target="_blank" rel="noopener">Heartland Transpersonal Alliance, Inc.
+  </a> a registered 501(c)(3) in the state of Missouri.</div>
