@@ -7,10 +7,10 @@ author_profile: false
 Have a question, comment, or collaboration opportunity in mind? We’d love to hear from you.
 
 - **Join our Community!**
-  Check out our thriving online community on [Discord](https://discord.gg/YHGye5YGYp)
+    Check out our thriving online community on [Discord](https://discord.gg/YHGye5YGYp)
 
 - **Follow Us**
-  [Check out](https://links.psychedelickc.org) our newsletter, social media contacts, and more!
+    [Check out](https://links.psychedelickc.org) our newsletter, social media contacts, and more!
 
 - **Email Inquiries**  
   Send us an email at [info@psychedelickc.org](mailto:info@psychedelickc.org) and we’ll get back to you shortly.
