@@ -1,15 +1,15 @@
 ---
 layout: splash 
 permalink: /
-title: "Discover, Learn, Engage with PSKC"
-excerpt: "The Psychedelic Society of Kansas City is a vibrant community that explores the transformative potential of psychedelic medicine, art, and culture."
+title: "Welcome to PSKC"
+excerpt: "Come join us this November 15th for the Psychedelic Freedom Conference in Kansas City. We'll be featuring a variety of keynote speakers, panels, and interactive workshops. Register today for the best possible price and to help support the conference."
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/logo.jpg
   actions:
-    - label: "Donate"
-      url: "https://www.zeffy.com/donation-form/support-the-psychedelic-society-of-kansas-city-championing-education-and-community-engagement-2"
+    - label: "Register"
+      url: "https://luma.com/gkp6hqyd"
       class: "btn btn--primary"
 ---
 We believe in fostering thoughtful conversations and connections around these emerging fields while advocating for informed, responsible use and supporting efforts to expand awareness and access.
