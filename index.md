@@ -1,14 +1,14 @@
 ---
 layout: splash 
 permalink: /
-title: "Welcome to PSKC"
+title: "We're Presenting A Conference!"
 excerpt: "Come join us this November 15th for the Psychedelic Freedom Conference in Kansas City. We'll be featuring a variety of keynote speakers, panels, and interactive workshops. Register today for the best possible price and to help support the conference."
 header:
   overlay_color: "#000"
   overlay_filter: "0.75"
   overlay_image: /assets/images/logo.jpg
   actions:
-    - label: "Register"
+    - label: "Register Your Seat Today"
       url: "https://luma.com/gkp6hqyd"
       class: "btn btn--primary"
 ---
