@@ -8,17 +8,8 @@ header:
   # overlay_filter: "0.75"
   overlay_image: /assets/images/kcpcbanner.jpg
   actions:
-    - label: "Register As An Attendee"
+    - label: "Register Today"
       url: "https://luma.com/gkp6hqyd"
-      class: "btn btn--primary"
-    - label: "Apply To Speak/Present Workshop"
-      url: "https://forms.gle/frUPQejiKH3YcFqV7"
-      class: "btn btn--primary"
-    - label: "Apply To Sponsor or Vend"
-      url: "https://forms.gle/kixvX9AdE5NzSDaX8"
-      class: "btn btn--primary"
-    - label: "Apply to Volunteer"
-      url: "https://forms.gle/YejQ7Lf8FBNqHyE36"
       class: "btn btn--primary"
 ---
 ## Explore
@@ -31,8 +22,17 @@ header:
 
 ## Venue & Programming
 
-​Two full speaker rooms featuring panels and presentations.
+- ​Two full speaker rooms featuring panels and presentations.
 
-​A third room in the basement dedicated to curated workshops and group activities for deeper integration and experiential learning.
+- ​A third room in the basement dedicated to curated workshops and group activities for deeper integration and experiential learning.
 
 ​More details, including speaker lineups and panel announcements, will be revealed soon.
+
+### Interested in being a part of the conference? Apply below!
+
+[Speaker/Presenter Application](https://forms.gle/frUPQejiKH3YcFqV7)
+---
+[Sponsor & Vendor Application](https://forms.gle/kixvX9AdE5NzSDaX8)
+---
+[Event Volunteer Application](https://forms.gle/YejQ7Lf8FBNqHyE36)
+
