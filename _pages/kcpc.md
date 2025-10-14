@@ -28,7 +28,10 @@ header:
 
 ​More details, including speaker lineups and panel announcements, will be revealed soon.
 
-## Interested in being a part of the conference? Apply below!
+## Help Out
+{: .text-center}
+
+Interested in being a part of the conference? Apply below!
 {: .text-center}
 
 [Speaker/Presenter Application](https://forms.gle/frUPQejiKH3YcFqV7){: .btn .btn--info .btn--large}
