@@ -28,7 +28,7 @@ header:
 
 ​More details, including speaker lineups and panel announcements, will be revealed soon.
 
-## Help Out
+# Help Out
 {: .text-center}
 
 Interested in being a part of the conference? Apply below!
