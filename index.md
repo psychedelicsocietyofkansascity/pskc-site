@@ -5,7 +5,7 @@ title: "We're Presenting A Conference!"
 excerpt: "Come join us this November 15th for the Kansas City Psychedelic Conference. We'll be featuring a variety of keynote speakers, panels, and interactive workshops."
 header:
   overlay_color: "#000"
-  overlay_filter: "0.75"
+  overlay_filter: "0.25"
   overlay_image: /assets/images/kcpcbanner.jpg
   actions:
     - label: "Learn More"
