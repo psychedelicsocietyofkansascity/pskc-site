@@ -30,9 +30,12 @@ header:
 
 ### Interested in being a part of the conference? Apply below!
 
-[Speaker/Presenter Application](https://forms.gle/frUPQejiKH3YcFqV7)
----
-[Sponsor & Vendor Application](https://forms.gle/kixvX9AdE5NzSDaX8)
----
-[Event Volunteer Application](https://forms.gle/YejQ7Lf8FBNqHyE36)
+[Speaker/Presenter Application](https://forms.gle/frUPQejiKH3YcFqV7){: .btn .btn--info .btn--large}
+{: .text-center}
+
+[Sponsor & Vendor Application](https://forms.gle/kixvX9AdE5NzSDaX8){: .btn .btn--info .btn--large}
+{: .text-center}
+
+[Event Volunteer Application](https://forms.gle/YejQ7Lf8FBNqHyE36){: .btn .btn--info .btn--large}
+{: .text-center}
 
