@@ -2,14 +2,14 @@
 layout: splash 
 permalink: /
 title: "We're Presenting A Conference!"
-excerpt: "Come join us this November 15th for the Psychedelic Freedom Conference in Kansas City. We'll be featuring a variety of keynote speakers, panels, and interactive workshops. Register today for the best possible price and to help support the conference."
+excerpt: "Come join us this November 15th for the Kansas City Psychedelic Conference. We'll be featuring a variety of keynote speakers, panels, and interactive workshops."
 header:
   overlay_color: "#000"
   overlay_filter: "0.75"
-  overlay_image: /assets/images/logo.jpg
+  overlay_image: /assets/images/kcpcbanner.jpg
   actions:
-    - label: "Register Your Seat Today"
-      url: "https://luma.com/gkp6hqyd"
+    - label: "Learn More"
+      url: "/kcpc/"
       class: "btn btn--primary"
 ---
 We believe in fostering thoughtful conversations and connections around these emerging fields while advocating for informed, responsible use and supporting efforts to expand awareness and access.
