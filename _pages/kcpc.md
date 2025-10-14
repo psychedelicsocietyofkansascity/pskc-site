@@ -2,7 +2,7 @@
 layout: splash 
 permalink: /kcpc/
 title: "Kansas City Psychedelic Conference"
-excerpt: "​This year’s conference will bring together psychedelic leaders, practitioners, and advocates from across the nation as well as voices from the Kansas City community."
+excerpt: "KCPC brings together psychedelic leaders, practitioners, and advocates from across the nation as well as voices from the Kansas City community."
 header:
   # overlay_color: "#000"
   # overlay_filter: "0.75"
