@@ -21,7 +21,7 @@ header:
       url: "https://forms.gle/YejQ7Lf8FBNqHyE36"
       class: "btn btn--primary"
 ---
-##Explore
+## Explore
 
 - **Psychedelic Therapies & Medical Applications**
 - **Harm Reduction & Education**
@@ -29,7 +29,8 @@ header:
 - **The Influence of Psychedelics in Culture & Community**
 - **​Somatic & Transpersonal Modalities**
 
-​## Venue & Programming
+## Venue & Programming
+
 ​Two full speaker rooms featuring panels and presentations.
 
 ​A third room in the basement dedicated to curated workshops and group activities for deeper integration and experiential learning.
