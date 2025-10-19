@@ -22,19 +22,22 @@ header:
 
 ## Venue & Programming
 
-- ​Two full speaker rooms featuring panels and presentations.
+- Speakers and panels on a variety of engaging topics
 
-- ​A third room in the basement dedicated to curated workshops and group activities for deeper integration and experiential learning.
+- Curated workshops and group activities for deeper integration and experiential learning.
 
 ​More details, including speaker lineups and panel announcements, will be revealed soon.
 
 # Help Out
 {: .text-center}
 
-Interested in being a part of the conference? Apply below! Please try to fill out your application by **October 17th**
+Interested in speaking or facilitating a workshop for the conference? Apply below! Please try to fill out your application by **October 17th**
 {: .text-center}
 
 [Speaker/Presenter Application](https://forms.gle/frUPQejiKH3YcFqV7){: .btn .btn--info .btn--large}
+{: .text-center}
+
+Volunteers, Sponsors, and Vendors are encouraged to fill out their applications by **November 1st**
 {: .text-center}
 
 [Sponsor & Vendor Application](https://forms.gle/kixvX9AdE5NzSDaX8){: .btn .btn--info .btn--large}
