@@ -24,9 +24,9 @@ header:
 ## Venue & Programming
 {: .text-center}
 
-- Speakers and panels on a variety of engaging topics
+- **Speakers and panels on a variety of engaging topics**
 
-- Curated workshops and group activities for deeper integration and experiential learning.
+- **Curated workshops and group activities for deeper integration and experiential learning.**
 
 ​More details, including speaker lineups and panel announcements, will be revealed soon.
 
