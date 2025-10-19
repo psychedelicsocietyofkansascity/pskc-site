@@ -13,6 +13,7 @@ header:
       class: "btn btn--primary"
 ---
 ## Explore
+{: .text-center}
 
 - **Psychedelic Therapies & Medical Applications**
 - **Harm Reduction & Education**
@@ -21,6 +22,7 @@ header:
 - **​Somatic & Transpersonal Modalities**
 
 ## Venue & Programming
+{: .text-center}
 
 - Speakers and panels on a variety of engaging topics
 
