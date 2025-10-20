@@ -12,7 +12,7 @@ header:
       url: "https://luma.com/gkp6hqyd"
       class: "btn btn--primary"
 ---
-## Explore
+#### Explore
 {: .text-center}
 
 - **Psychedelic Therapies & Medical Applications**
@@ -21,7 +21,7 @@ header:
 - **The Influence of Psychedelics in Culture & Community**
 - **​Somatic & Transpersonal Modalities**
 
-## Venue & Programming
+#### Venue & Programming
 {: .text-center}
 
 - **Speakers and panels on a variety of engaging topics**
@@ -30,7 +30,7 @@ header:
 
 ​More details, including speaker lineups and panel announcements, will be revealed soon.
 
-### Help Out
+####### Help Out
 {: .text-center}
 
 Interested in speaking or facilitating a workshop? Apply below! Please try to fill out your application by **October 17th**
