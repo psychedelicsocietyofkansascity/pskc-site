@@ -30,7 +30,7 @@ header:
 
 ​More details, including speaker lineups and panel announcements, will be revealed soon.
 
-####### Help Out
+###### Help Out
 {: .text-center}
 
 Interested in speaking or facilitating a workshop? Apply below! Please try to fill out your application by **October 17th**
