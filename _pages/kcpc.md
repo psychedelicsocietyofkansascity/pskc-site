@@ -35,6 +35,7 @@ gallery:
 
 
 {% include gallery caption="The full lineup for the **Kansas City Psychedelic Conference**." %}
+{: .text-center}
 
 - **Speakers and panels on a variety of engaging topics**
 
