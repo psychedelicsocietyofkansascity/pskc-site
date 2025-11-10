@@ -11,6 +11,15 @@ header:
     - label: "Register Today"
       url: "https://luma.com/gkp6hqyd"
       class: "btn btn--primary"
+gallery:
+  - url: /assets/images/kcpc/mind.jpg
+    image_path: /assets/images/kcpc/mind.jpg
+    alt: "The MIND lineup"
+    title: "The MIND track features all of our speakers and panelists"
+  - url: /assets/images/kcpc/body.jpg
+    image_path: /assets/images/kcpc/body.jpg
+    alt: "The BODY lineup"
+    title: "The BODY track features all of our workshops, group activities, and ceremonies"
 ---
 #### Explore
 {: .text-center}
@@ -24,15 +33,7 @@ header:
 #### Venue & Programming
 {: .text-center}
 
-gallery:
-  - url: /assets/images/kcpc/mind.jpg
-    image_path: /assets/images/kcpc/mind.jpg
-    alt: "The MIND lineup"
-    title: "The MIND track features all of our speakers and panelists"
-  - url: /assets/images/kcpc/body.jpg
-    image_path: /assets/images/kcpc/body.jpg
-    alt: "The BODY lineup"
-    title: "The BODY track features all of our workshops, group activities, and ceremonies"
+
 {% include gallery caption="The full lineup for the **Kansas City Psychedelic Conference**." %}
 
 - **Speakers and panels on a variety of engaging topics**
