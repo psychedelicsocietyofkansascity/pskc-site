@@ -24,6 +24,17 @@ header:
 #### Venue & Programming
 {: .text-center}
 
+gallery:
+  - url: /assets/images/kcpc/mind.jpg
+    image_path: /assets/images/kcpc/mind.jpg
+    alt: "The MIND lineup"
+    title: "The MIND track features all of our speakers and panelists"
+  - url: /assets/images/kcpc/body.jpg
+    image_path: /assets/images/kcpc/body.jpg
+    alt: "The BODY lineup
+    title: "The BODY track features all of our workshops, group activities, and ceremonies"
+{% include gallery caption="The full lineup for the **Kansas City Psychedelic Conference**." %}
+
 - **Speakers and panels on a variety of engaging topics**
 
 - **Curated workshops and group activities for deeper integration and experiential learning.**
@@ -33,18 +44,12 @@ header:
 ###### Help Out
 {: .text-center}
 
-Interested in speaking or facilitating a workshop? Apply below! Please try to fill out your application by **October 17th**
-{: .text-center}
-
-[Speaker/Presenter Application](https://forms.gle/frUPQejiKH3YcFqV7){: .btn .btn--info .btn--large}
-{: .text-center}
-
 Volunteers, Sponsors, and Vendors are encouraged to fill out their applications by **November 1st**
 {: .text-center}
 
 [Sponsor & Vendor Application](https://forms.gle/kixvX9AdE5NzSDaX8){: .btn .btn--info .btn--large}
 {: .text-center}
 
-[Event Volunteer Application](https://forms.gle/YejQ7Lf8FBNqHyE36){: .btn .btn--info .btn--large}
+[Event Volunteer Waitlist](https://forms.gle/QVXHRW4WTjT3qoaE9){: .btn .btn--info .btn--large}
 {: .text-center}
 
