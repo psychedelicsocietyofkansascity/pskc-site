@@ -29,11 +29,12 @@ gallery:
 - **Updates on Psychedelic Policy Efforts in Missouri**
 - **Intimate Group Workshops Featuring Ecstatic Dance, Meditation, Yoga, Authentic Relating, Cacao Cermonies, and more!**
 
-#### Venue & Programming
+#### Lineup
 {: .text-center}
 
 
 {% include gallery caption="The full lineup for the **Kansas City Psychedelic Conference**." %}
+
 
 {: .text-center}
 
