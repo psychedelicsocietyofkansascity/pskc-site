@@ -24,24 +24,18 @@ gallery:
 #### Explore
 {: .text-center}
 
-- **Psychedelic Therapies & Medical Applications**
-- **Harm Reduction & Education**
-- **Legalization & Policy Efforts**
-- **The Influence of Psychedelics in Culture & Community**
-- **​Somatic & Transpersonal Modalities**
+- **Advancements in Psychedelic Science**
+- **Harm Reduction & Psychedelic Integration Discussion Panels**
+- **Updates on Psychedelic Policy Efforts in Missouri**
+- **Intimate Group Workshops Featuring Ecstatic Dance, Meditation, Yoga, Authentic Relating, Cacao Cermonies, and more!**
 
 #### Venue & Programming
 {: .text-center}
 
 
 {% include gallery caption="The full lineup for the **Kansas City Psychedelic Conference**." %}
+
 {: .text-center}
-
-- **Speakers and panels on a variety of engaging topics**
-
-- **Curated workshops and group activities for deeper integration and experiential learning.**
-
-​More details, including speaker lineups and panel announcements, will be revealed soon.
 
 ###### Help Out
 {: .text-center}
