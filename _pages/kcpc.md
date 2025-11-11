@@ -61,7 +61,7 @@ We would like to extend our sincerest graditudes for those who are sponsoring KC
 
 ##### Visionary Sponsor
 {: .text-center}
-{% include gallery id="gallery2" layout="half" caption="aliceCBD and alice RN Nutraceutical specialize in products that use cannabinoids and terpenes that are federally legal equal to or less than 0.3% THC Delta 9, including CBD, THC-V, CBG, BCP, THC-P, CBD-P, and Delta-8." %}
+{% include gallery id="gallery2" caption="aliceCBD and alice RN Nutraceutical specialize in products that use cannabinoids and terpenes that are federally legal equal to or less than 0.3% THC Delta 9, including CBD, THC-V, CBG, BCP, THC-P, CBD-P, and Delta-8." %}
 
 ##### Trailblazer Sponsors
 {: .text-center}
