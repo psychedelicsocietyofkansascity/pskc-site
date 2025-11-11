@@ -58,7 +58,7 @@ gallery2:
 We would like to extend our sincerest graditudes for those who are sponsoring KCPC and making this possible
 {: .text-center}
 
-{% include gallery id="gallery2" layout="half" caption="This is a half gallery layout example." %}
+{% include gallery id="gallery2" layout="half" caption="The Official Sponsors of KCPC 2025" %}
 
 ###### Help Out
 {: .text-center}
