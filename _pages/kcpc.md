@@ -20,6 +20,15 @@ gallery:
     image_path: /assets/images/kcpc/body.jpg
     alt: "The BODY lineup"
     title: "The BODY track features all of our workshops, group activities, and ceremonies"
+gallery2:
+  - url: /assets/images/kcpc/alicecbd.png
+    image_path: /assets/images/kcpc/alicecbd.png
+    alt: "The MIND lineup"
+    title: "The MIND track features all of our speakers and panelists"
+  #- url: /assets/images/kcpc/body.jpg
+    image_path: /assets/images/kcpc/body.jpg
+    alt: "The BODY lineup"
+    title: "The BODY track features all of our workshops, group activities, and ceremonies"
 ---
 #### Explore
 {: .text-center}
@@ -36,7 +45,12 @@ gallery:
 {% include gallery caption="The full lineup for the **Kansas City Psychedelic Conference**." %}
 
 
+#### Special Thanks
 {: .text-center}
+We would like to extend our sincerest graditudes for those who are sponsoring KCPC and making this possible
+{: .text-center}
+
+{% include gallery id="gallery2" layout="half" caption="This is a half gallery layout example." %}
 
 ###### Help Out
 {: .text-center}
