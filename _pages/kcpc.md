@@ -21,22 +21,23 @@ gallery:
     alt: "The BODY lineup"
     title: "The BODY track features all of our workshops, group activities, and ceremonies"
 gallery2:
-  - url: /assets/images/kcpc/alicecbd.jpg
+  - url: https://alicecbd.com/
     image_path: /assets/images/kcpc/alicecbd.jpg
-    #alt: "The MIND lineup"
-    #title: "The MIND track features all of our speakers and panelists"
-  - url: /assets/images/kcpc/yogabsih.jpg
-    image_path: /assets/images/kcpc/yogabsih.jpg
-    #alt: "The BODY lineup"
+    alt: "alice RN Nutraceutical logo"
+    title: "aliceCBD and alice RN Nutraceutical specialize in products that use cannabinoids and terpenes that are federally legal equal to or less than 0.3% THC Delta 9, including CBD, THC-V, CBG, BCP, THC-P, CBD-P, and Delta-8."
+gallery3:
+  - url: https://www.hummingbirdhealthcare.com/
+    image_path: /assets/images/kcpc/hummingbird.jpg
+    alt: "Hummingbird Healthcare logo"
     #title: "The BODY track features all of our workshops, group activities, and ceremonies"
-  - url: /assets/images/kcpc/keyhole.jpg
-    image_path: /assets/images/kcpc/keyhole.jpg
-    #alt: "The BODY lineup"
-    #title: "The BODY track features all of our workshops, group activities, and ceremonies"
-  - url: /assets/images/kcpc/lumina.jpg
-    image_path: /assets/images/kcpc/lumina.jpg
-    #alt: "The BODY lineup"
-    #title: "The BODY track features all of our workshops, group activities, and ceremonies" 
+  - url: https://www.evolution-mag.com/
+    image_path: /assets/images/kcpc/evolution.jpg
+    alt: "The Evolution Magazine Logo"
+    #title: "The BODY track features all of our workshops, group activities, and ceremonies  
+  #- url: /assets/images/kcpc/yogabsi.jpg
+  #  image_path: /assets/images/kcpc/keyhole.jpg
+  #  alt: "Keyhole Consulting & Wellness"
+    #title: "The BODY track features all of our workshops, group activities, and ceremonies"" 
 ---
 #### Explore
 {: .text-center}
@@ -58,7 +59,11 @@ gallery2:
 We would like to extend our sincerest graditudes for those who are sponsoring KCPC and making this possible
 {: .text-center}
 
-{% include gallery id="gallery2" layout="half" caption="The Official Sponsors of KCPC 2025" %}
+##### Visionary Sponsor
+{% include gallery id="gallery2" layout="half" caption="Our Visionary Sponsor for KCPC 2025" %}
+
+##### Trailblazer Sponsors
+{% include gallery id="gallery3" layout="half" caption="Our Trailblazer Sponsors for KCPC 2025" %}
 
 ###### Help Out
 {: .text-center}
