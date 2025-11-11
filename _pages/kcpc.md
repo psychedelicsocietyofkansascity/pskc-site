@@ -24,7 +24,7 @@ gallery2:
   - url: https://alicecbd.com/
     image_path: /assets/images/kcpc/alicecbd.jpg
     alt: "alice RN Nutraceutical logo"
-    title: "aliceCBD and alice RN Nutraceutical specialize in products that use cannabinoids and terpenes that are federally legal equal to or less than 0.3% THC Delta 9, including CBD, THC-V, CBG, BCP, THC-P, CBD-P, and Delta-8."
+   # title: "aliceCBD and alice RN Nutraceutical specialize in products that use cannabinoids and terpenes that are federally legal equal to or less than 0.3% THC Delta 9, including CBD, THC-V, CBG, BCP, THC-P, CBD-P, and Delta-8."
 gallery3:
   - url: https://www.hummingbirdhealthcare.com/
     image_path: /assets/images/kcpc/hummingbird.jpg
@@ -60,9 +60,11 @@ We would like to extend our sincerest graditudes for those who are sponsoring KC
 {: .text-center}
 
 ##### Visionary Sponsor
-{% include gallery id="gallery2" layout="half" caption="Our Visionary Sponsor for KCPC 2025" %}
+{: .text-center}
+{% include gallery id="gallery2" layout="half" caption="aliceCBD and alice RN Nutraceutical specialize in products that use cannabinoids and terpenes that are federally legal equal to or less than 0.3% THC Delta 9, including CBD, THC-V, CBG, BCP, THC-P, CBD-P, and Delta-8." %}
 
 ##### Trailblazer Sponsors
+{: .text-center}
 {% include gallery id="gallery3" layout="half" caption="Our Trailblazer Sponsors for KCPC 2025" %}
 
 ###### Help Out
