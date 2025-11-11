@@ -21,14 +21,22 @@ gallery:
     alt: "The BODY lineup"
     title: "The BODY track features all of our workshops, group activities, and ceremonies"
 gallery2:
-  - url: /assets/images/kcpc/alicecbd.png
-    image_path: /assets/images/kcpc/alicecbd.png
-    alt: "The MIND lineup"
-    title: "The MIND track features all of our speakers and panelists"
-  #- url: /assets/images/kcpc/body.jpg
-    image_path: /assets/images/kcpc/body.jpg
-    alt: "The BODY lineup"
-    title: "The BODY track features all of our workshops, group activities, and ceremonies"
+  - url: /assets/images/kcpc/alicecbd.jpg
+    image_path: /assets/images/kcpc/alicecbd.jpg
+    #alt: "The MIND lineup"
+    #title: "The MIND track features all of our speakers and panelists"
+  - url: /assets/images/kcpc/yogabsih.jpg
+    image_path: /assets/images/kcpc/yogabsih.jpg
+    #alt: "The BODY lineup"
+    #title: "The BODY track features all of our workshops, group activities, and ceremonies"
+  - url: /assets/images/kcpc/keyhole.jpg
+    image_path: /assets/images/kcpc/keyhole.jpg
+    #alt: "The BODY lineup"
+    #title: "The BODY track features all of our workshops, group activities, and ceremonies"
+  - url: /assets/images/kcpc/lumina.jpg
+    image_path: /assets/images/kcpc/lumina.jpg
+    #alt: "The BODY lineup"
+    #title: "The BODY track features all of our workshops, group activities, and ceremonies" 
 ---
 #### Explore
 {: .text-center}
